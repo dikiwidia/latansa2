@@ -1,5 +1,5 @@
 # latansa2
-Template Wordpress La Tansa 2
+Template Wordpress La Tansa 2 - Untuk Website Portal Pondok Pesantren (Gratis)
 
 ## Instalasi
 - Gunakan ```$ git clone https://github.com/dikiwidia/latansa2``` untuk memulai menginstal template pada direktori ```wp-content/themes/```
